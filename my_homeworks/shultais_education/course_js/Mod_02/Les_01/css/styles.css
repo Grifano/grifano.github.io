@@ -1,0 +1,81 @@
+body {
+  box-sizing: border-box;
+  font-family: roboto, sans-serif, serif;
+}
+.content {
+  width: 600px;
+  height: 230px;
+  padding: 10px 20px;
+  margin: 0 auto;
+  border: 1px solid black;
+  background-color: #eee;
+}
+h1 {
+  margin: 20px auto;
+  padding: 5px;
+  width: 50%;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  color: rgb(97, 95, 95);
+  border-bottom:5px solid orangered;
+
+}
+h2 {
+  margin: 0 auto 10px;
+  text-align: center;
+  width: 200px;
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 1px solid rgb(26, 160, 31);
+}
+h2 span {
+  font-style: italic;
+  font-weight: 0,5rem;
+  font-size: 14px;
+}
+.user {
+  padding: 5px;
+  width: 180px;
+  height: 50px;
+  border: 1px solid green;
+}
+.user ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.user ul li {
+  padding: 5px 1px;
+  margin: 0;
+  text-align: center;
+  font-weight: 700;
+  color: blue;
+  list-style: none;
+}
+.user #email {
+  font-size: 10px;
+  font-weight: 500;
+  color: dimgray;
+  background-color: chocolate;
+}
+.results {
+  margin: 20px auto 0;
+  width: 200px;
+  height: 80px;
+  border: 2px dashed red;
+}
+.results h5 {
+  width: 50%;
+  margin: 5px auto 0;
+  text-align: center;
+  border-bottom: 1px solid green;
+}
+.results #data {
+  margin: 15px auto;
+  text-align: center;
+  font-weight: 700;
+  width: 50%;
+  height: 50%;
+  color: red;
+}
