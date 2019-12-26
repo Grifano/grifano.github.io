@@ -1,0 +1,79 @@
+body {
+  background-color: grey;
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+}
+
+h2 {
+text-transform: uppercase;
+}
+b {
+font-weight: bold;
+}
+
+strong {
+font-weight: bold;
+}
+
+i {
+font-style: italic;
+}
+
+s {
+text-decoration: line-through;
+}
+
+a {
+  display: inline-block;
+  text-decoration:none;
+  color: white;
+  background-color: dimgrey;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 2px;
+  margin-top: 5px;
+  font-style: italic;
+}
+
+a:hover {
+  opacity: 0.5;
+  background-color:black; 
+
+}
+
+ul {
+  list-style-type: none; 
+}
+
+img.chapter-logo {
+  float: left;
+  margin: 0 auto;
+  margin-right: 10px;
+  width: 150px;
+  height: 150px;
+  opacity: 0.6;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+p {
+  text-align: justify;
+}
+
+span {
+  font-size: 20px;
+  font-family: italic;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}

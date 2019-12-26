@@ -1,0 +1,486 @@
+html {
+  font-family: "Roboto", "PT-Sans", "sans-serif";
+}
+
+body {
+  width: 1366px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+h1 {
+  display: none;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+  color: rgb(42, 42, 42);
+  line-height: 1.375;
+  text-align: left;
+}
+
+.content {
+  width: 1166px;
+  margin: 0 auto;
+}
+
+.btn {
+  height: 38px;
+  margin: 0 auto;
+  border: 1px solid #2a2a2a;
+  border-radius: 20px;
+  
+}
+
+.btn a {
+  justify-content: center;
+  display: flex;
+  font-size: 15px;
+  font-weight: 500;
+  color: #2a2a2a;
+  line-height: 38px;
+  text-align: center;
+}
+
+.btn:hover,
+.btn a:hover {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  border-radius: 20px;
+}
+
+/*-about.html-*/
+
+/*--Наша Команда--*/
+.team li img {
+  border: none;
+  border-radius: 50px;
+  margin: 0 auto;
+  display: block;
+}
+
+/*-about.html-*/
+
+/*--Шапка--*/
+.header-wrapper {
+  background-color: #2a2a2a;
+  height: 38px;
+  padding: 21px 0;
+  position: relative;
+}
+
+.header-wrapper .content {
+  height: 38px;
+}
+
+nav {
+  height: 38px;
+  width: 445px;
+  float: left;
+}
+
+nav .logo {
+  width: 35px;
+  height: 38px;
+  background-repeat: no-repeat;
+  background-image: url(/LearningSite/src/img/logo.svg);
+  float: left;
+}
+
+nav .logo:hover {
+  opacity: 0.4;
+}
+
+nav a {
+  color: #ffffff;
+  font-size: 18px;
+  margin-left: 51px;
+  float: left;
+  line-height: 38px;
+}
+
+nav a:hover {
+  opacity: 0.4;
+  text-decoration: underline;
+}
+
+nav li:first-child a {
+  margin-left: 0;
+}
+
+nav li:last-child a {
+  margin-right: 0;
+}
+
+.tel {
+  height: 38px;
+  width: 170px;
+  margin-left: 782px;
+  position: relative;
+}
+
+.tel a {
+  line-height: 38px;
+}
+
+.tel .tel-icon {
+  display: block;
+  width: 14px;
+  height: 14px;
+  background-image: url(/LearningSite/src/img/sprite.png);
+  background-position: -92px 0;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+}
+
+.tel-numer {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  margin-left: 24px;
+}
+
+.tel:hover {
+  opacity: 0.4;
+}
+
+.btn-callback {
+  position: absolute;
+  left: 1101px;
+  top: 20px;
+  width: 163px;
+  height: 38px;
+  background-color: #2a2a2a;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+} 
+.btn-callback a {
+  justify-content: center;
+  display: flex;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 38px;
+  color: #ffffff;
+}
+.btn-callback:hover,
+.btn-callback a:hover {
+  background-color: #ffffff;
+  color: #2a2a2a;
+  border: 1px solid #2a2a2a;
+  border-radius: 20px;
+}
+/*----------*/
+
+/*--Квартиры--*/
+.flats-wrapper {
+  width: 1166px;
+  height: 1013px;
+  background-color: #F5f5f5;
+  margin: 0 auto;
+  padding-top: 50px;
+  position: relative;
+}
+
+.flats .flat {
+  width: 369px;
+  height: 365px;
+  background-color: #ffffff;
+  margin: 0 14px 30px 15px;/*<--Нельзя задать 1166px - не правельный размер блоков ошибка в макете. В сумме ширины блоков выходит 1167px-поэтому задал 14px margin*/
+  float: left;
+  position: relative;
+}
+
+.flats .flat:nth-child(3n+1) {
+  margin-left: 0;
+}
+
+.flats .flat:nth-child(3n) {
+  margin-right: 0;
+}
+
+.flat img {
+  width: 369px;
+  height: 220px;
+}
+
+.flat .price {
+  text-align: center;
+  line-height: 50px;
+  width: 84px;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  position: absolute;
+  background-color: #2a2a2a;
+  left: 267px;
+  top: 17px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  z-index: 1;
+}
+
+.base-desc {
+  font-size: 18px;
+  color: rgb(42, 42, 42);
+  line-height: 1.333;
+  text-align: left;
+  margin: 30px 0 18px 40px;
+}
+
+.rooms {
+  font-weight: bold;
+}
+
+.address {
+  font-weight: Medium;
+}
+
+.params li {
+  color: rgb(42, 42, 42);
+  font-size: 14px;
+  line-height: 1.429;
+}
+
+.params li,
+.params span {
+  display: block;
+  float: left;
+}
+
+.params .icon-guests {
+  width: 12px;
+  height: 16px;
+  background-image: url(/LearningSite/src/img/sprite.png);
+  background-position: -66px 0;
+  margin-right: 9px;
+  margin-left: 40px;
+  margin-top: 3px;
+}
+
+.params .icon-beds {
+  width: 14px;
+  height: 16px;
+  background-image: url(/LearningSite/src/img/sprite.png);
+  background-position: -78px 0;
+  margin-right: 6px;
+  margin-left: 10px;
+  margin-top: 3px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.flats-wrapper .btn {
+  width: 137px;
+  height: 38px;
+  position: absolute;
+  right: 513px;
+  bottom: 40px;
+} 
+/*----------*/
+
+/*--Отзывы--*/
+.reviews-wrapper {
+  padding-top: 50px;
+  width: 1166px;
+  height: 503px;
+  margin:0 auto;
+  position: relative;
+}
+
+.review {
+  float: left;
+  width: 468px;
+  height: 136px;
+  background-color: #f4efed;
+  padding: 40px 60px 40px 40px;
+  margin: 0 15px 30px 15px;
+}
+
+.review:first-child {
+  margin-left: 0;
+}
+
+.review:last-child {
+  margin-right: 0;
+}
+
+.review .text {
+  width: 459px;
+  height: 59px;
+}
+
+.review img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-right: 13px;
+}
+
+.review p {
+  margin-bottom: 20px;
+}
+
+.review .info p {
+  margin: 0;
+}
+
+.review .info .author {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  padding-top: 4px;
+}
+
+.review .info .data {
+  font-size: 14px;
+  line-height: 20px;
+  padding-bottom: 4px;
+}
+
+.reviews-wrapper .btn {
+  width: 125px;
+  height: 38px;
+  position: absolute;
+  right: 519px;
+  bottom: 40px;
+}
+/*-----------*/
+
+/*--Подвал--*/
+.footer-wrapper {
+  height: 265px;
+  background-color: #2a2a2a;
+}
+
+.footer-content {
+  height: 183px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  position: relative;
+}
+
+.footer-content nav {
+  position: absolute;
+  top:0;
+  bottom: 0;
+  margin: auto 0;
+}
+
+.footer-content .address {
+  box-sizing: border-box;
+  width: 324px;
+  height: 42px;
+  margin-left: 599px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 597px;
+  margin: auto 0;
+  padding-top: 10px;
+}
+
+.address .marker {
+  width: 14px;
+  height: 19px;
+  background-image: url(/LearningSite/src/img/sprite.png);
+  background-position: -106px 0;
+  float: left;
+  margin-right: 10px;
+}
+
+.address p {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  line-height: 1.333;
+  float: left;
+  }
+
+.footer-content .tel {
+  margin-left: 997px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 996px;
+  margin: auto 0;
+}
+
+.footer-content .social {
+  width: 156px;
+  height: 14px;
+  position: absolute;
+  top: 80px;
+  bottom: 0;
+  left: 996px;
+  margin: auto 0;
+}
+
+.footer-content .social a {
+  display: block;
+  background-image: url(/LearningSite/src/img/sprite.png);
+  float: left;
+  margin-right: 30px;
+}
+
+.footer-content .social a:hover {
+  opacity: 0.4;
+}
+
+.footer-content .social .email {
+  width: 16px;
+  height: 13px;
+  background-position: 0 0;
+}
+
+.footer-content .social .vk {
+  width: 22px;
+  height: 12px;
+  background-position: -16px 0;
+}
+
+.footer-content .social .fb {
+  width: 14px;
+  height: 14px;
+  background-position: -38px 0;
+}
+
+.footer-content .social .insta {
+  width: 14px;
+  height: 14px;
+  background-position: -52px 0;
+  margin-right: 0;
+}
+
+.footer-wrapper .licens-rules a {
+  font-size: 12px;
+  display: block;
+  color: rgba(255, 255, 255, 0.4);
+  line-height: 1.333;
+  text-decoration: none;
+  float: left;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  padding-bottom: 3px;
+  margin: 34px 0 34px 436px;
+}
+
+.licens-rules li:last-child a {
+  margin-left: 21px;
+}

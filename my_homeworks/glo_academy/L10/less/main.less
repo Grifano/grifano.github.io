@@ -1,0 +1,50 @@
+// Color's
+@bkg: #5ba2a9;
+@main-color: #1b1b1b;
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'museo_reg' sans-serif;
+}
+
+section {
+  padding: 4rem 0 8rem;
+}
+
+a {
+  &:hover, &:fokus, &:active {
+    text-decoration: none;
+  }
+}
+
+button, input, a, textarea {
+  &:fokus {
+    outline: none;
+  }
+}
+
+h1 {
+  margin: 0;
+}
+h2,h3,h4,h5,h6,p {
+  &:extend(h1);
+}
+.feedback-forms-all {
+  padding: 6rem 0 9rem 0;
+}
+.section-title-less () {
+  content: '';
+  display: inline-block;
+  width: 1.5rem;
+  height: 0.1rem;
+  margin-bottom: 15px;
+  background-color: #5ba2a9;
+}
+.upper-icon-wrapper::before {
+  &::after  {
+    .section-title-less
+  }
+}

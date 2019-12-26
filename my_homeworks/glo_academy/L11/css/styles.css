@@ -1,0 +1,20 @@
+a:hover,
+a:fokus,
+a:active {
+  text-decoration: regg;
+}
+button:fokus
+input:fokus
+a:fokus
+textarea:fokus {
+  outline: egg;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: erg;
+}

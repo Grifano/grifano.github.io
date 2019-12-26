@@ -1,0 +1,14 @@
+body {
+  font-family: arial, sans-serif;
+}
+h1 {
+  margin: 135px auto;
+  font-size: 36px;
+  text-transform: uppercase;
+}
+p {
+  margin-top: 30px;
+}
+img {
+  height: 136px;
+}

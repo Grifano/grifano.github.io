@@ -1,0 +1,253 @@
+// Main Colors:
+@btn-bkg: #f18c41;
+@btn-text-color: #ffffff;
+@h1-text-color: #ffffff;
+@h2-text-color: #0d0b0a;
+@text-color: #3c3c3c;
+@menu-text-color: #575555;
+@price: #676767;
+// кнопка
+.btn {
+  margin-top: 43px;
+  width: 208px;
+  height: 50px;
+  color: @btn-text-color;
+  font-size: 13px;
+  text-transform: uppercase;
+  background-color: @btn-bkg;
+  border: none;
+  cursor: pointer;
+}
+// миксины
+.main-text() {
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+}
+.header-list() {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: @h2-text-color;
+}
+.line() {
+  .header-list;
+  overflow: hidden;
+  .line:before,
+  .line:after {
+      content: "";
+      display: inline-block;
+      vertical-align: middle;
+      width: 100%;
+      height: 2px;
+      background-color: @btn-bkg;
+      position: relative;
+  }
+  .line:before {
+      margin-left: -100%;
+      left: -14px;
+  }
+  .line:after {
+      margin-right: -100%;
+      right: -14px;
+  }
+}
+.title-list () {
+  font-size: 18px;
+  font-weight: 600;
+  color: @text-color;
+  text-transform: none;
+}
+body { 
+  font-family: "Segoe UI", sans-serif;
+}
+.content,
+footer,
+.footer-wrapper {
+  max-width: 1380px;
+  margin: 0 auto;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1380px;
+  height: 100px;
+  margin: 0 auto;
+  .logo {
+    margin-left: 33px;
+  }
+  .main-menu {
+    height: 50px;
+    ul {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      width: 390px;
+      height: 50px;
+      margin: 0 auto;
+      padding-left: 0;
+      display: flex;
+      li {
+        list-style-type: none;
+      }
+      a {
+        text-transform: uppercase;
+        text-decoration: none;
+        color: @menu-text-color;
+      }
+    }
+    }
+  .form-search {
+    width: 660px;
+    height: 50px;
+    margin-right: 29px;
+    .search-holder {
+      padding: 0 0 0 23px;
+      width: 446px;
+      height: 50px;
+      text-transform: uppercase;
+      background-color: #eeeeee;
+      border: none;
+    }
+    .btn {
+      padding: 0;
+      margin-top: 0;
+    }
+  }
+  }
+.header-wrapper {
+  width: 1380px;
+  height: 700px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../img/main_bkg.jpg);
+  background-repeat: no-repeat;
+    h1 {
+      display: none;
+      // color: @h1-text-color;
+      // font-size: 35px;
+      // font-weight: 700;
+      // line-height: 50px;
+      // text-transform: uppercase;
+      // text-align: center;
+      //   span {
+      //     font-size: 24px;
+      //     font-weight: 400;
+      //   }
+      //   strong {
+      //     font-family: Segoe UI 8; // нужно подключить
+      //     font-weight: 700;
+      //   } 
+    }
+    img {
+      display: block;
+      margin-top: 222px;
+      text-align: center;
+    }
+    p {
+      .main-text;
+    }
+}
+
+.about-shop {
+  margin-bottom: 45px;
+  h3 {
+    margin: 40px 40px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: @text-color;
+  }
+  p {
+    .main-text;
+    line-height: 16px;
+    font-weight: 400;
+    font-size: 13px;
+    color: @text-color;
+  }
+}
+.product-section {
+  width: 1130px;
+  margin: 0 auto;
+  .line;
+  h2 {
+    margin: 15px 0 40px 0;
+    .header-list;
+  }
+  .product-list {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .title {
+      margin: 29px auto 6px;
+      .title-list;
+    }
+    .price {
+      margin-bottom: 25px;
+      color: @price;
+    }
+  }
+}
+
+footer {
+  height: 521px;
+  background-color: #0d0b0a;
+  .footer-wrapper {
+    padding-top: 1px;
+    height: 420px;
+    background-image: url(../img/footer_bkg.jpg);
+    background-repeat: no-repeat;
+    .title-footer {
+      .header-list;
+      margin: 99px auto 31px;
+      height: 25px;
+      color: @h1-text-color;
+    }
+    p {
+      .main-text;
+      height: 62px;
+      line-height: 16px;
+      font-size: 13px;
+    }
+    .form-call_back {
+      margin: 67px 0 0 238px;
+      height: 50px;
+      .your-name {
+        width: 360px;
+        height: 44px;
+        &::placeholder {
+          padding-left: 32px;
+          color: #575555;
+          font-family: "Segoe UI";
+          font-size: 13px;
+          font-weight: 400;
+          line-height: 16px;
+        }
+      }
+      .phone-number {
+        .your-name;
+        margin-left: 19px;
+      }
+      .btn {
+        margin: 0;
+      }
+    }
+  }
+  .copyright {
+    margin: 44px auto;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #4d403a;
+  }
+}
