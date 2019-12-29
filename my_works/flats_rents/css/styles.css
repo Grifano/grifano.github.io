@@ -99,7 +99,7 @@ nav .logo {
   width: 35px;
   height: 38px;
   background-repeat: no-repeat;
-  background-image: url(img/logo.svg);
+  background-image: url(../img/logo.svg);
   float: left;
 }
 
@@ -143,7 +143,7 @@ nav li:last-child a {
   display: block;
   width: 14px;
   height: 14px;
-  background-image: url(img/sprite.png);
+  background-image: url(../img/sprite.png);
   background-position: -92px 0;
   position: absolute;
   top: 0;
@@ -267,7 +267,7 @@ nav li:last-child a {
 .params .icon-guests {
   width: 12px;
   height: 16px;
-  background-image: url(img/sprite.png);
+  background-image: url(../img/sprite.png);
   background-position: -66px 0;
   margin-right: 9px;
   margin-left: 40px;
@@ -277,7 +277,7 @@ nav li:last-child a {
 .params .icon-beds {
   width: 14px;
   height: 16px;
-  background-image: url(img/sprite.png);
+  background-image: url(../img/sprite.png);
   background-position: -78px 0;
   margin-right: 6px;
   margin-left: 10px;
@@ -401,7 +401,7 @@ nav li:last-child a {
 .address .marker {
   width: 14px;
   height: 19px;
-  background-image: url(img/sprite.png);
+  background-image: url(../img/sprite.png);
   background-position: -106px 0;
   float: left;
   margin-right: 10px;
@@ -435,7 +435,7 @@ nav li:last-child a {
 
 .footer-content .social a {
   display: block;
-  background-image: url(img/sprite.png);
+  background-image: url(../img/sprite.png);
   float: left;
   margin-right: 30px;
 }
