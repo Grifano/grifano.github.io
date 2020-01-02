@@ -20,10 +20,10 @@
 
 ## Бесплатный курс "Фрилансер по жизни: / "Freelancer Life Style" free course:
 [Бесплатный курс "Фрилансер по жизни"](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr);
-- [Урок - 01](https://grifano.github.io/my_homeworks/fls/01_html_tags_1/html_tags_1/) - Первый урок;
-- [Урок - 02](https://grifano.github.io/my_homeworks/fls/02_html_tags_2/html_tags_2/) - Таги DIV и другие;
-- [Урок - 03](https://grifano.github.io/my_homeworks/fls/03_html_tags_3/html_tags_3/) - Теги для контента;
-- [Урок - 04](https://grifano.github.io/my_homeworks/fls/04_html_tags_4/html_tags_4/) - HTML-теги (формы);
+- [Урок - 01](https://grifano.github.io/my_homeworks/fls/01_my_first_project/my_first_project/) - Первый урок;
+- [Урок - 02](https://grifano.github.io/my_homeworks/fls/02_html_tags_1/html_tags_1/) - Таги DIV и другие;
+- [Урок - 03](https://grifano.github.io/my_homeworks/fls/03_html_tags_2/html_tags_2/) - Теги для контента;
+- [Урок - 04](https://grifano.github.io/my_homeworks/fls/04_html_tags_3/html_tags_3/) - HTML-теги (формы);
 - [Урок - 05](https://grifano.github.io/my_homeworks/fls/05_css_1/css_1/) - Основы CSS. Обнуление стилей;
 - [Урок - 06](https://grifano.github.io/my_homeworks/fls/06_css_2/css_2/) - Основы CSS. Стили шрифта и текста;
 
