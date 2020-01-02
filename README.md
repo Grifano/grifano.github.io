@@ -19,7 +19,7 @@
 - [Урок - 13](https://grifano.github.io/my_homeworks/glo_academy/L13/) - Форма регистрации пиксел в пиксел / Registration form pixel perfect;
 
 ## Бесплатный курс "Фрилансер по жизни: / "Freelancer Life Style" free course:
-[Бесплатный курс "Фрилансер по жизни"](https://youtu.be/seewcjGHreg);
+[Бесплатный курс "Фрилансер по жизни"](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr);
 - [Урок - 01](https://grifano.github.io/my_homeworks/01_html_tags_1/html_tags_1) - Первый урок;
 - [Урок - 02](https://grifano.github.io/my_homeworks/02_html_tags_2/html_tags_2) - Таги DIV и другие;
 - [Урок - 03](https://grifano.github.io/my_homeworks/03_html_tags_3/html_tags_3) - Теги для контента;
