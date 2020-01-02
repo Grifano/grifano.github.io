@@ -1,0 +1,15 @@
+header {
+  height: 80px;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #b4b4b4;
+  border: 2px dashed black
+}
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+a {
+  margin: 0 10px;
+}

@@ -1,0 +1,42 @@
+
+.arial {
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.font_size_30 {
+  font-size: 30px;
+}
+.italic {
+  font-style: oblique;
+}
+.font_700 {
+  font-weight: 700;
+}
+.color-red {
+  color: red;
+}
+.text_right {
+  text-align: justify;
+}
+.decoration {
+  text-decoration: line-through;
+}
+.shadow {
+  text-shadow: 1px 1px 10px #000000;
+}
+.uppercase {
+  text-transform: none;
+}
+.ident {
+  text-indent: 50px;
+}
+.lspace {
+  letter-spacing: 5px;
+}
+.wspace {
+  word-spacing: 5px;
+}
+.white_space {
+  white-space: normal;
+}
+.line_height {
+  line-height: 20px;}

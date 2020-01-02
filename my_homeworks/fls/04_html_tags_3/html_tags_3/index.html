@@ -1,0 +1,84 @@
+	<!-- Сообщаем браузеру как стоит обрабатывать эту страницу -->
+<!DOCTYPE html>
+<!-- Оболочка документа, указываем язык содержимого -->
+<html lang="ru">
+	<!-- Заголовок страницы, контейнер для других важных данных (не отображается) -->
+	<head>
+		<!-- Заголовок страницы в браузере -->
+		<title>Знакомство с HTML тенами. Часть №3 (Формы)</title>
+		<!-- Кодировка страницы -->
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+		<style>
+			header {
+				height: 80px;
+				margin: 20px auto;
+				padding: 10px;
+				background-color: #b4b4b4;
+				border: 2px dashed black
+			}
+			h1 {
+				text-align: center;
+				font-size: 1.5rem;
+			}
+			a {
+				margin: 0 10px;
+			}
+		</style>	
+	</head>
+
+	<body>
+
+		<header>
+			<h1>Знакомство с HTML тенами. Часть №3 (Формы)</h1>
+			<nav>
+				<a href="index.html">Главная</a>
+				<a href="practice.html">Урок</a>
+				<a href="homework.html">Домашнее задание</a>
+			</nav>
+		</header>
+
+	<form action="#" method="POST" enctype="multipart/form-data">
+		<div>
+			<input tabindex="1" placeholder="Ваше имя" type="text" name="username" value=""> <!--запись для ввода текстовых даных-->
+		</div> 
+		<div>
+			<input type="tel" name="phone_numer" value=""> <!--запись для ввода номера телефона. Откроется цыфровая клавиатура-->
+		</div> 
+		<div>
+			<input disabled type="password" name="password" value=""> <!--запись для ввода пароля. Звездочки при вводе -->
+		</div>
+		 <div>
+			 <p><input checked type="radio" name="beer" value="lager">Светлое пиво</p> <!--Радио кнопка для выбора -->
+			 <p><input type="radio" name="beer" value="dark">Темное пиво</p> <!--Радио кнопка для выбора -->
+		 </div>
+		 <br/>
+		 <div>
+			<p><input type="radio" name="beer2" value="lager">Светлое пиво</p> <!--Радио кнопка для выбора -->	
+			<p><input checked type="radio" name="beer2" value="dark">Темное пиво</p> <!--Радио кнопка для выбора -->
+		 </div>
+		 <div>
+			 <p><input tabindex="2" type="checkbox" name="car1" value="yes">Наличие авто</p></p> <!--Отметить выбор птичкой -->
+			 <p><input checked type="checkbox" name="car2" value="yes">Наличие авто 2</p></p> <!--Отметить выбор птичкой. checked - выбор по умолчанию -->
+			 <p><input tabindex="2" type="checkbox" name="car3" value="yes">Наличие авто 3</p></p>
+			 <p><input checked type="checkbox" name="car4" value="yes">Наличие авто 4</p></p>
+		 </div>
+		 <div>
+			 <p><input type="file" name="foto"></p>
+		 </div>
+		 <div>
+		   <textarea name="text" cols="30" rows="10"></textarea> <!--Создает место для ввода текста. cols="" и rows="" задают размер. Но их можно не писать. Размер будет задаватся с помощью css-->
+		 </div>
+		 <div>
+			 <select name="color"> <!--Выпадающий список-->
+				 <option value="red">Красный</option> <!--Значения выпадающего списка-->
+				 <option selected value="yellow">Желтый</option> <!--Значения выпадающего списка-->
+				 <option value="blue">Голубой</option> <!--Значения выпадающего списка-->
+			 </select>
+		 </div>
+		 <div>
+			 <button type="submit">Отправить</button> <!--Оправить данные формы-->
+			 <button type="reset">Очистить</button> <!--Очистить поля формы-->
+		 </div>
+	</form>
+	</body>
+</html>
