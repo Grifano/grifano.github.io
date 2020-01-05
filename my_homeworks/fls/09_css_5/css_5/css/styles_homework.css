@@ -1,0 +1,127 @@
+/* ---Стили для шапки---
+header {
+  width: 90%;
+  max-width: 1300px;
+  height: 100px;
+  margin: 0 auto 20px;
+  padding: 20px 0;
+  background: url(../img/bg.jpg) 0 0/cover no-repeat;
+  border: 1px solid #000000;
+  border-radius: 0 50px 0 50px;
+  box-shadow: 0 0 10px #000000;
+}
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+nav {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 2%;
+}
+a {
+  text-decoration: underline;
+  font-size: 1rem;
+  color: #000000;
+} */
+/*----------------*/
+body {
+  background: #e8e8e8;
+  background: url('/css_5/img/homework/Ellipse_1_copy.png') 59% 105px / auto auto no-repeat;
+}
+
+.content {
+  width: 1190px;
+  height: 1700px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  color: #273d46;
+}
+.logo-text {
+  margin: 154px auto 0;
+  text-align: center;
+  opacity: 0.6;
+  font-weight: 400;
+  line-height: 40px;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+}
+h2 {
+  margin: 0 auto 66px;
+  text-align: center;
+  font-family: "Times New Roman PSMT";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50px;
+  color: #273d46;
+}
+.frame {
+  width: 841px;
+  height: 561px;
+  margin: 0 auto 84px;
+  background: url('/css_5/img/homework/light-man_copy.jpg') center no-repeat #ffffff;
+  box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
+}
+.text {
+  width: 736px;
+  height: 257px;
+  margin: 0 auto 65px;
+  text-align: justify;
+  opacity: 0.8;
+  font-family: "Times New Roman PSMT";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+}
+.we-do {
+  width: 458px;
+  margin: 0 220px 49px;
+}
+.we-do li {
+font-size: 20px;
+font-weight: 400;
+color: #273d46;
+padding: 0 0 0 35px;
+line-height: 36px;
+background: url('/css_5/img/homework/check_icon.png') left 6px no-repeat;
+}
+.we-do .put_on{
+text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+}
+.we-do .detailed {
+color: #80b7b3;
+font-style: italic;
+}
+.detailed {
+font-weight: 700;
+}
+.we-do .tell_us {
+font-weight: bold;
+}
+.we-do .associate {
+opacity: 0.3;
+text-decoration: line-through;
+}
+.btn-story {
+  display: block;
+  width: 200px;
+  height: 45px;
+  margin: 0 0 0 216px;
+  text-align: center;
+  color: #ffffff;
+  line-height: 45px;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+  border: none;
+  border-radius: 50px;
+  box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+  background: url('/css_5/img/homework/Shape_2.png') 165px 15px no-repeat #80b7b3;
+}
