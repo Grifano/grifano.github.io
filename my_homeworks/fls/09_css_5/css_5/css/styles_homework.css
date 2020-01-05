@@ -33,7 +33,7 @@ a {
 /*----------------*/
 body {
   background: #e8e8e8;
-  background: url('/css_5/img/homework/Ellipse_1_copy.png') 59% 105px / auto auto no-repeat;
+  background: url('../img/homework/Ellipse_1_copy.png') 59% 105px / auto auto no-repeat;
 }
 
 .content {
@@ -67,7 +67,7 @@ h2 {
   width: 841px;
   height: 561px;
   margin: 0 auto 84px;
-  background: url('/css_5/img/homework/light-man_copy.jpg') center no-repeat #ffffff;
+  background: url('../img/homework/light-man_copy.jpg') center no-repeat #ffffff;
   box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
 }
 .text {
@@ -91,7 +91,7 @@ font-weight: 400;
 color: #273d46;
 padding: 0 0 0 35px;
 line-height: 36px;
-background: url('/css_5/img/homework/check_icon.png') left 6px no-repeat;
+background: url('../img/homework/check_icon.png') left 6px no-repeat;
 }
 .we-do .put_on{
 text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
@@ -123,5 +123,5 @@ text-decoration: line-through;
   border: none;
   border-radius: 50px;
   box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
-  background: url('/css_5/img/homework/Shape_2.png') 165px 15px no-repeat #80b7b3;
+  background: url('../img/homework/Shape_2.png') 165px 15px no-repeat #80b7b3;
 }

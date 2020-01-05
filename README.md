@@ -26,6 +26,7 @@
 - [Урок - 04](https://grifano.github.io/my_homeworks/fls/04_html_tags_3/html_tags_3/) - HTML-теги (формы);
 - [Урок - 05](https://grifano.github.io/my_homeworks/fls/05_css_1/css_1/) - Основы CSS. Обнуление стилей;
 - [Урок - 06](https://grifano.github.io/my_homeworks/fls/06_css_2/css_2/) - Основы CSS. Стили шрифта и текста;
+- [Урок - 09](https://grifano.github.io/my_homeworks/fls/09_css_5/css_5/homework.html) - Основы CSS. Часть №5 (Свойство background);
 
 ## Мои домашние задания JavaScript / My JavaScript Homework:
 - скоро появятся... / coming soon...;
