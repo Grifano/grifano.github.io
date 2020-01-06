@@ -27,6 +27,7 @@
 - [Урок - 05](https://grifano.github.io/my_homeworks/fls/05_css_1/css_1/) - Основы CSS. Обнуление стилей;
 - [Урок - 06](https://grifano.github.io/my_homeworks/fls/06_css_2/css_2/) - Основы CSS. Стили шрифта и текста;
 - [Урок - 09](https://grifano.github.io/my_homeworks/fls/09_css_5/css_5/homework.html) - Основы CSS. Часть №5 (Свойство background);
+- [Урок - 10](https://grifano.github.io/my_homeworks/fls/10_css_6/css_6/homework.html) - Основы CSS. Часть №6 (Селекторы псевдоклассов);
 
 ## Мои домашние задания JavaScript / My JavaScript Homework:
 - скоро появятся... / coming soon...;

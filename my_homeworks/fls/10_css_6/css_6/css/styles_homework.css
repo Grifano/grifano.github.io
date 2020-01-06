@@ -1,0 +1,117 @@
+/* ---Стили для шапки---*/
+header {
+  width: 90%;
+  max-width: 1300px;
+  height: 100px;
+  margin: 0 auto 100px;
+  padding: 20px 0;
+  background: url(../img/bg.jpg) 0 0/cover no-repeat;
+  border: 1px solid #000000;
+  border-radius: 0 50px 0 50px;
+  box-shadow: 0 0 10px #000000;
+}
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+nav {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 2%;
+}
+a {
+  text-decoration: underline;
+  font-size: 1rem;
+  color: #000000;
+}
+/*----------------*/
+body {
+  background: #e8e8e8;
+}
+
+.content {
+  width: 1190px;
+  height: 1700px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  color: #273d46;
+}
+.pseudo {
+  margin: 0 220px 81px;
+}
+.pseudo li, 
+.hover li {
+  font-size: 20px;
+  font-weight: 400;
+  color: #273d46;
+  padding: 0 0 0 35px;
+  line-height: 36px;
+  background: url('../img/homework/check_icon.png') left 6px no-repeat;
+}
+.pseudo li:nth-child(1) {
+  text-decoration: line-through;
+}
+.pseudo li:nth-child(2) {
+  font-weight: bold;
+}
+.pseudo li:nth-child(2):hover {
+  cursor: pointer;
+  color: #d55a5a;
+  background: url('../img/homework/check_icon_red.png') left 6px no-repeat;
+}
+
+.pseudo li:nth-child(3) {
+  font-style: italic;
+}
+.pseudo li:nth-child(4) {
+  text-transform: uppercase;
+}
+.btn-story {
+  display: block;
+  width: 200px;
+  height: 45px;
+  margin: 0 0 100px 220px;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+  background: url('../img/homework/Shape_2.png') 165px 15px no-repeat #80b7b3;
+}
+.btn-story:hover {
+  box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+  background-color: #3a5856;
+  }
+.btn-story:active {
+  background-color: #818181;
+}
+.btn-story span {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 45px;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+}
+form {
+  width: 300px;
+  margin: 0 0 0 220px;
+}
+.text-input {
+  width: 292px;
+  height: 50px;
+  border: 1px solid #b0b0b0;
+}
+.text-input:focus {
+box-shadow: 0 0 20px rgba(127, 190, 213, 0.93);
+border: 1px solid #7fbed5;
+}
