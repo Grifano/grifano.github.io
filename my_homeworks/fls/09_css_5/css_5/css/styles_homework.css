@@ -93,20 +93,17 @@ padding: 0 0 0 35px;
 line-height: 36px;
 background: url('../img/homework/check_icon.png') left 6px no-repeat;
 }
-.we-do .put_on{
+.we-do li:nth-child(1){
 text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
 }
-.we-do .detailed {
+.we-do li:nth-child(2) {
 color: #80b7b3;
 font-style: italic;
 }
-.detailed {
+.we-do li:nth-child(3) {
 font-weight: 700;
 }
-.we-do .tell_us {
-font-weight: bold;
-}
-.we-do .associate {
+.we-do li span {
 opacity: 0.3;
 text-decoration: line-through;
 }
@@ -116,12 +113,17 @@ text-decoration: line-through;
   height: 45px;
   margin: 0 0 0 216px;
   text-align: center;
-  color: #ffffff;
-  line-height: 45px;
-  text-transform: uppercase;
-  letter-spacing: 2.8px;
+  text-decoration: none;
   border: none;
   border-radius: 50px;
   box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
   background: url('../img/homework/Shape_2.png') 165px 15px no-repeat #80b7b3;
+}
+.btn-story span {
+color: #ffffff;
+font-size: 14px;
+font-weight: 400;
+line-height: 45px;
+text-transform: uppercase;
+letter-spacing: 2.8px;
 }
