@@ -1,0 +1,135 @@
+/* ---Стили для шапки---*/
+header {
+  width: 90%;
+  max-width: 1300px;
+  height: 100px;
+  margin: 0 auto 100px;
+  padding: 20px 0;
+  background: url(../img/bg.jpg) 0 0/cover no-repeat;
+  border: 1px solid #000000;
+  border-radius: 0 50px 0 50px;
+  box-shadow: 0 0 10px #000000;
+}
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+nav {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 2%;
+}
+a {
+  text-decoration: underline;
+  font-size: 1rem;
+  color: #000000;
+}
+/*----------------*/
+body {
+  background: #e8e8e8;
+}
+
+.content {
+  width: 1190px;
+  height: 1700px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  color: #273d46;
+}
+.list {
+  margin: 0 0 81px 0;
+  font-size: 20px;
+  line-height: 1.8;
+  text-align: left;
+  cursor: pointer;
+}
+
+.list li {
+  margin: 0 0 14px 0;
+}
+ .list li:hover {
+  color: #d55a5a;
+}
+ .list li::before {
+  content: '';
+  display: inline-block;
+  width: 25px;
+  height: 19px;
+  margin: 0 11px 0 0;
+  background: url('../img/icons/check.png') no-repeat;
+}
+ .list li:hover::before {
+  content: '';
+  background: url('../img/icons/check_red.png') no-repeat;
+}
+ .list li:nth-child(1) {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+  text-decoration: line-through;
+}
+ .list li:nth-child(2) {
+  font-weight: 700;
+}
+ .list li:nth-child(3) {
+  font-style: italic;
+}
+ .list li:nth-child(4) {
+  text-transform: uppercase;
+}
+
+.button {
+  display: block;
+  width: 200px;
+  height: 45px;
+  margin: 0 0 118px 0;
+  border-radius: 50px;
+  text-decoration: none;
+  text-align: right;
+  background: #80b7b3;
+  box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+}
+.button::after {
+  content: '';
+  display: inline-block;
+  width: 24px;
+  height: 14px;
+  margin: 0 18px 0 9px;
+  line-height: 45px;
+  background: url('../img/icons/Shape.png') no-repeat; /* уточнить как поставить по центру */
+}
+.button:hover {
+  background: #3a5856;
+}
+.button:active {
+  background: #818181;
+}
+.text-button {
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 45px;  
+  letter-spacing: 2.8px;
+ }
+.text-1, .text-2 {
+  margin: 0 0 48px 0;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  color: #000000;
+}
+
+.text-1::first-line {
+  color: #ff0000;
+}
+.text-2::first-letter {
+  font-size: 32px;
+  color: #ff0000;
+}

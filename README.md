@@ -28,6 +28,7 @@
 - [Урок - 06](https://grifano.github.io/my_homeworks/fls/06_css_2/css_2/) - Основы CSS. Стили шрифта и текста;
 - [Урок - 09](https://grifano.github.io/my_homeworks/fls/09_css_5/css_5/homework.html) - Основы CSS. Часть №5 (Свойство background);
 - [Урок - 10](https://grifano.github.io/my_homeworks/fls/10_css_6/css_6/homework.html) - Основы CSS. Часть №6 (Селекторы псевдоклассов);
+- [Урок - 11](https://grifano.github.io/my_homeworks/fls/11_css_7/css_7/homework.html) - Основы CSS. Часть №7 (псевдоэлементы);
 
 ## Мои домашние задания JavaScript / My JavaScript Homework:
 - скоро появятся... / coming soon...;
