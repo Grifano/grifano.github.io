@@ -165,7 +165,7 @@ h2 {
   height: 19px;
   margin: 0 11px 0 0;
   display: inline-block;
-  background: url("../../img/for_homework_v2/icons/check_light.png") left no-repeat;
+  background: url("../img/for_homework_v2/icons/check_light.png") left no-repeat;
 }
 .content .header .info-list li:last-child {
   margin: 0px;
@@ -233,5 +233,5 @@ h2 {
   width: 32px;
   height: 32px;
   margin: 0 9px 0 0;
-  background: #445161 url("../../img/for_homework_v2/icons/plus.png") 50% 50% no-repeat;
+  background: #445161 url("../img/for_homework_v2/icons/plus.png") 50% 50% no-repeat;
 }
