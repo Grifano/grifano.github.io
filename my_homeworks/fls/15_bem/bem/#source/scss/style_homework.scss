@@ -1,0 +1,297 @@
+// Шрифты
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Black.eot');
+  src: local('☺'), url('../fonts/Lato-Black.woff') format('woff'), url('../fonts/Lato-Black.ttf') format('truetype'), url('../fonts/Lato-Black.svg') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoBold.eot');
+  src: local('☺'), url('../fonts/LatoBold.woff') format('woff'), url('../fonts/LatoBold.ttf') format('truetype'), url('../fonts/LatoBold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Light.eot');
+  src: local('☺'), url('../fonts/Lato-Light.woff') format('woff'), url('../fonts/Lato-Light.ttf') format('truetype'), url('../fonts/Lato-Light.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoRegular.eot');
+  src: local('☺'), url('../fonts/LatoRegular.woff') format('woff'), url('../fonts/LatoRegular.ttf') format('truetype'), url('../fonts/LatoRegular.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../fonts/SQDRSS+MyriadPro-Regular.eot');
+  src: local('☺'), url('../fonts/SQDRSS+MyriadPro-Regular.woff') format('woff'), url('../fonts/SQDRSS+MyriadPro-Regular.ttf') format('truetype'), url('../fonts/SQDRSS+MyriadPro-Regular.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+// Подключен файл обнуления и файл с шапкой для курса
+@import "../scss/nullstyle.scss", "../scss/fls_header_style.scss";
+
+// Переменные
+
+// Шаблоны
+
+// Основные стили
+body{
+	font-family: Lato, sans-serif;
+}
+
+.wrapper{
+	// max-width: 1103px;
+	margin: 0 auto;
+	background: url('../img/homework/header/BG-Header.jpg') no-repeat ;
+	.header {
+		margin: 0 auto;
+		padding: 264px 0 150px 0;
+		&__logo {
+			text-align: center;
+			margin: 0 0 160px 0;
+		}
+		&__title{
+			max-width: 759px;
+			margin: 0 auto 169px;
+			text-align: center;
+			color: #ffffff;
+			font-size: 34px;
+			font-weight: 900;
+			line-height: 40px;
+			text-transform: uppercase;
+			letter-spacing: 5.43px;
+			padding: 0 0 39px 0;
+			position: relative;
+			span{
+			font-family: Lato;
+			font-weight:400;
+			font-size: 26px;
+			letter-spacing: 4.15px;
+			text-transform: none;
+			}
+			&:after{
+				content: ''; 
+				position: absolute;
+				width: 105px;
+				height: 2px;
+				background: #fff;
+				left: 50%;
+				bottom: 0;
+				margin: 0 0 0 -52px;
+			}
+		}
+		&__link{
+			border: 1px solid #fff;
+			margin: 0 auto;
+			a{
+				color: #fff;
+			}
+			&:after {
+				content: '';
+				width: 17px;
+				height: 10px;
+				margin: 69px auto 0;
+				display: block;
+				background: url('../img/homework/header/icon/Arrow-down.png') no-repeat;
+			}
+		}
+	}
+	.link{
+		width: 182px;
+		height: 47px;
+		padding: 16px 40px;
+		font-size: 16px;
+		text-transform: uppercase;
+		letter-spacing: 0.67px;
+	}
+	.menu {
+		width: 100%;
+		height: 60px;
+		text-align: center;
+		box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.05);
+		background-color: #fff;
+		&__item {
+			display: inline-block;
+			margin: 0 25px 0 25px;
+			font-size: 15px;
+			text-transform: uppercase;
+			line-height: 60px;
+			color: #3c3c3c;
+		&_active{
+			color: #ada074;
+			font-weight: 700;
+			}
+		}
+	}
+	.about {
+		max-width: 823px;
+		margin: 0 auto;
+		padding: 130px 0 95px 0;
+		&__header {
+		}
+		&__title {
+			margin: 0 0 30px 0;
+		}
+		&__text {
+			max-width: 688px;
+			margin: 0 auto 70px;
+			text-align: center;
+			font-weight: 300;
+			line-height: 25.89px;
+			color: #868585;
+		}
+		&__row {
+			display: flex;
+			margin: 0 -15px;
+			font-size: 0;
+		}
+		&__column {
+			padding: 0 15px;
+			flex: 0 0 33.333%;
+		}
+	}
+	.title {
+		position: relative;
+		padding: 0 0 30px 0;
+		text-align: center;
+		font-size: 34px;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 8.95px;
+		&:after {
+			content: '';
+			position: absolute;
+			bottom:0;
+			left: 50%;
+			width: 80px;
+			height: 1px;
+			margin: 0 0 0 -45px;
+			background-color: #000;
+		}
+	}
+	.item-about {
+		&__icon {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 92px;
+			height: 92px;
+			margin: 0 auto 40px;
+			border-radius: 50%;
+			border: 2px solid #f1f1f1;
+		}
+		&__title {
+			margin: 0 0 35px 0;
+			text-align: center;
+			font-size: 22px;
+			text-transform: uppercase;
+			letter-spacing: 3.52px;
+		}
+		&__text {
+			margin: 0 auto;
+			text-align: center;
+			font-size: 14px;
+			font-weight: 300;
+			line-height: 26px;
+			color: #868585;
+		}
+	}
+	.portfolio {
+		padding: 105px 0 60px 0;
+		background-color: #f3f3f3;
+		&__title {
+			margin: 0 0 50px 0;
+		}
+		&__menu {
+			margin: 0 0 125px 0;
+			background-color: #f3f3f3;
+			box-shadow: none;
+		}
+		&__galery {
+			max-width: 1100px;
+			height: 1130px;
+			margin: 0 auto 60px;
+			display: flex;
+			justify-content: space-between;
+		}
+		&__row {
+			display: flex;
+			justify-content: space-between;
+			flex-direction: column;
+		}
+		&__item {
+			width: 538px;
+			height: 365px;
+			background-color: #eaeaea;
+			margin: 0 0 16px 0;
+			&:last-child {
+				margin: 0;
+			}
+		}
+		&__link {
+			border: 1px solid #000;
+			margin: 0 auto;
+			a{
+				color: #000;
+			}
+		}
+	}
+	.partners {
+		padding: 100px 0 105px 0;
+		min-height: 390px;
+		background: url('../img/homework/partners/BG-partners.jpg') 0 0 / 100% auto no-repeat; // поигратся с fixed
+		&__title {
+			text-align: center;
+			color: #c4c6d2;
+			font-size: 30px;
+			font-weight: 300;
+			letter-spacing: 1.8px;
+			margin: 0 0 90px 0;
+		}
+		&__link {
+			max-width: 585px;
+			margin: 0 auto;
+			display: flex;
+			justify-content: space-between;
+		}
+		&__link_center{
+			display: flex;
+			align-items: center;
+		}
+	}
+	.footer {
+		padding: 45px 0 50px 0;
+		background-color: #3c3c3c;
+		&__block {
+			max-width: 260px;
+			margin: 0 auto;
+			}
+		&__logo {
+			text-align: center;
+			margin: 0 0 40px 0;
+			}
+		&__menu {
+			display: flex;
+			justify-content: space-between;
+			margin: 0 0 35px 0;
+			a {
+				color: #7a7a7a;
+				font-size: 14px;
+			}
+			}
+		&__rights {
+			text-align: center;
+			color: #6c6c6c;
+			font-family: "Myriad Pro";
+			font-size: 14px;
+			font-weight: 400;
+			}
+	}
+}
