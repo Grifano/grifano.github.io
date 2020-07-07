@@ -1,16 +1,18 @@
 # Сергей Орленко / Serhii Orlenko
-
+![Сергей Орленко / Serhii Orlenko](/avatar.jpg)
 > **Добро пожаловать! / Welcome**
 >
 > Здесь я буду делится своими результатами / Here I will share my results
 -----
 
 ## Мои работы / My works: 
-- [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study
-- [Сайт ветрина обуви / Shoe Windrin Website](https://grifano.github.io/my_works/be_original/) - Первый макет / The first layout
-- [LandingPage / Tai-Food restaurant](https://grifano.github.io/PrimeOne/) - LandingPage - Tai-Food restaurant / Сайт визитка - Ресторан Тайской кухни;
-- [LandingPage / Wooder ](https://grifano.github.io/wooder/) - LandingPage - Wooder / Сайт визитка;
-- [LandingPage / Charger ](https://grifano.github.io/charger/) - LandingPage - Wooder / Сайт визитка;
+1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study
+2. [Сайт ветрина обуви / Shoe Windrin Website](https://grifano.github.io/my_works/be_original/) - Первый макет / The first layout
+3. [LandingPage / Tai-Food restaurant](https://grifano.github.io/PrimeOne/) 
+  1. LandingPage - Tai-Food restaurant / Сайт визитка - Ресторан Тайской кухни;
+4. [LandingPage / Wooder ](https://grifano.github.io/wooder/) 
+  1. LandingPage / Сайт визитка;
+5. [LandingPage / Charger ](https://grifano.github.io/charger/) - LandingPage / Сайт визитка;
 
 ## Мои домашние задания HTML & CSS / My HTML & CSS Homework:
 - [Урок - 04](https://grifano.github.io/my_homeworks/glo_academy/L04/) - Мини книга на Html / Mini book on HTML;
