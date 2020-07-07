@@ -30,7 +30,7 @@
     - Slider;
     - Responsive;
     - Vaidating-form;
-> ***
+> 
 ## Мои домашние задания HTML & CSS / My HTML & CSS Homework:
 - [Урок - 04](https://grifano.github.io/my_homeworks/glo_academy/L04/) - Мини книга на Html / Mini book on HTML;
 - [Урок - 05](https://grifano.github.io/my_homeworks/glo_academy/L05/) - Мини книга на Html и CSS / Mini book on HTML&CSS;
