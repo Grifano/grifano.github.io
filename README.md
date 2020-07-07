@@ -1,5 +1,5 @@
 # Сергей Орленко / Serhii Orlenko
-![avatar](https://user-images.githubusercontent.com/57153786/86810151-e9d8d200-c07c-11ea-8f8f-75bf5598d9cd.jpg)
+![avatar-small](https://user-images.githubusercontent.com/57153786/86810656-6f5c8200-c07d-11ea-9839-c9671a1a0fbf.jpg)
 > **Добро пожаловать! / Welcome**
 >
 > Здесь я буду делится своими результатами / Here I will share my results
