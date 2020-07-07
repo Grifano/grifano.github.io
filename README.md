@@ -13,6 +13,7 @@
     - BEM;
     - SASS/SCSS;
     - Responsive;
+    - Vaidating-form;
 4. [Wooder](https://grifano.github.io/wooder/) - LandingPage about wood furniture / Сайт визитка - что-то про дерево :);
     - HTML&CSS;
     - JS (simple);
