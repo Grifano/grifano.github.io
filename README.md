@@ -8,11 +8,28 @@
 ## Мои работы / My works: 
 1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study
 2. [Сайт ветрина обуви / Shoe Windrin Website](https://grifano.github.io/my_works/be_original/) - Первый макет / The first layout
-3. [LandingPage / Tai-Food restaurant](https://grifano.github.io/PrimeOne/) 
-  1. LandingPage - Tai-Food restaurant / Сайт визитка - Ресторан Тайской кухни;
-4. [LandingPage / Wooder ](https://grifano.github.io/wooder/) 
-  1. LandingPage / Сайт визитка;
-5. [LandingPage / Charger ](https://grifano.github.io/charger/) - LandingPage / Сайт визитка;
+3. LandingPage - Tai-Food restaurant / Сайт визитка - Ресторан Тайской кухни; [PrimeOne](https://grifano.github.io/PrimeOne/) 
+    - HTML&CSS;
+    - JS (simple);
+    - BEM;
+    - SASS/SCSS;
+    - Responsive;
+4. LandingPage - [Wooder](https://grifano.github.io/wooder/)
+    - HTML&CSS;
+    - JS (simple);
+    - BEM;
+    - SASS/SCSS;
+    - Fullscreen images;
+    - Slider;
+    - Responsive;
+5. LandingPage [Charger ](https://grifano.github.io/charger/) - LandingPage / Сайт визитка;
+    - HTML&CSS;
+    - JS (simple);
+    - BEM;
+    - SASS/SCSS;
+    - Slider;
+    - Responsive;
+    - 
 
 ## Мои домашние задания HTML & CSS / My HTML & CSS Homework:
 - [Урок - 04](https://grifano.github.io/my_homeworks/glo_academy/L04/) - Мини книга на Html / Mini book on HTML;
