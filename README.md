@@ -3,7 +3,6 @@
 > **Добро пожаловать! / Welcome**
 >
 > Здесь я буду делится своими результатами / Here I will share my results
------
 
 ## Мои работы / My works: 
 1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study;
