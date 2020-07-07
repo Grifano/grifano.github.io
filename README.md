@@ -1,5 +1,5 @@
 # Сергей Орленко / Serhii Orlenko
-![Сергей Орленко / Serhii Orlenko](/avatar.jpg)
+![avatar](https://user-images.githubusercontent.com/57153786/86810151-e9d8d200-c07c-11ea-8f8f-75bf5598d9cd.jpg)
 > **Добро пожаловать! / Welcome**
 >
 > Здесь я буду делится своими результатами / Here I will share my results
