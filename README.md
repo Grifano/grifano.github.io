@@ -6,15 +6,15 @@
 -----
 
 ## Мои работы / My works: 
-1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study
-2. [Сайт ветрина обуви / Shoe Windrin Website](https://grifano.github.io/my_works/be_original/) - Первый макет / The first layout
-3. LandingPage - Tai-Food restaurant / Сайт визитка - Ресторан Тайской кухни; [PrimeOne](https://grifano.github.io/PrimeOne/) 
+#### 1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study;
+#### 2. [Сайт ветрина обуви / Shoe Windrin Website](https://grifano.github.io/my_works/be_original/) - Первый макет / The first layout;
+#### 3. [PrimeOne](https://grifano.github.io/PrimeOne/) - Сайт визитка - Ресторан Тайской кухни / LandingPage. Tai-Food restaurant;
     - HTML&CSS;
     - JS (simple);
     - BEM;
     - SASS/SCSS;
     - Responsive;
-4. LandingPage - [Wooder](https://grifano.github.io/wooder/)
+#### 4. [Wooder](https://grifano.github.io/wooder/) - LandingPage about wood furniture / Сайт визитка - что-то про дерево :);
     - HTML&CSS;
     - JS (simple);
     - BEM;
@@ -22,15 +22,15 @@
     - Fullscreen images;
     - Slider;
     - Responsive;
-5. LandingPage [Charger ](https://grifano.github.io/charger/) - LandingPage / Сайт визитка;
+#### 5. [Charger ](https://grifano.github.io/charger/) - LandingPage. Chargin device company / Сайт визитка - Зарядка устройств;
     - HTML&CSS;
     - JS (simple);
     - BEM;
     - SASS/SCSS;
     - Slider;
     - Responsive;
-    - 
-
+    - Vaidating-form;
+> ***
 ## Мои домашние задания HTML & CSS / My HTML & CSS Homework:
 - [Урок - 04](https://grifano.github.io/my_homeworks/glo_academy/L04/) - Мини книга на Html / Mini book on HTML;
 - [Урок - 05](https://grifano.github.io/my_homeworks/glo_academy/L05/) - Мини книга на Html и CSS / Mini book on HTML&CSS;
