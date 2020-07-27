@@ -39,6 +39,13 @@
     - Responsive;
     - Fullscreen block;
     - Vaidating-form;
+    
+## Frontend Mentor / Challenge:
+1. [ArticlePreview](https://grifano.github.io/FrontendMentor/Challenge/ArticlePreview/index.html); 
+    - HTML&CSS;
+    - JS (simple);
+    - BEM;
+    - Responsive;
 
 ## Мои домашние задания HTML & CSS / My HTML & CSS Homework:
 - [Урок - 04](https://grifano.github.io/my_homeworks/glo_academy/L04/) - Мини книга на Html / Mini book on HTML;
