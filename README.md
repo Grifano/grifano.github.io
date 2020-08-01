@@ -7,7 +7,7 @@
 ## Мои работы / My works: 
 1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study;
 2. [Сайт ветрина обуви / Shoe Windrin Website](https://grifano.github.io/my_works/be_original/) - Первый макет / The first layout;
-3. [PrimeOne](https://grifano.github.io/PrimeOne/) - Сайт визитка - Ресторан Тайской кухни / LandingPage. Tai-Food restaurant;
+3. [PrimeOne](https://grifano.github.io/primeone/) - Сайт визитка - Ресторан Тайской кухни / LandingPage. Tai-Food restaurant;
     - HTML&CSS;
     - JS (simple);
     - BEM;
