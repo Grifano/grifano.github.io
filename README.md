@@ -39,7 +39,7 @@
     - Responsive;
     - Fullscreen block;
     - Vaidating-form;
-6. [Bicycle](https://grifano.github.io/bike/) - LandingPage;
+6. [Bicycle](https://grifano.github.io/Bike/) - LandingPage;
     - HTML&CSS;
     - JS (simple);
     - BEM;
