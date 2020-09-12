@@ -1,20 +1,20 @@
-# Сергей Орленко / Serhii Orlenko
+# Serhii Orlenko
 ![avatar-small](https://user-images.githubusercontent.com/57153786/86810656-6f5c8200-c07d-11ea-9839-c9671a1a0fbf.jpg)
-> **Добро пожаловать! / Welcome**
+> **Welcome**
 >
-> Здесь я буду делится своими результатами / Here I will share my results
+> Here I will share my results :)
 
-## Мои работы / My works: 
-1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Практическое задание курса по HTML&CSS / HTML & CSS Case Study;
-2. [Сайт ветрина обуви / Shoe Windrin Website](https://grifano.github.io/my_works/be_original/) - Первый макет / The first layout;
-3. [PrimeOne](https://grifano.github.io/primeone/) - Сайт визитка - Ресторан Тайской кухни / LandingPage. Tai-Food restaurant;
+## My works: 
+1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Practical task of the course HTML&CSS;
+2. [Website](https://grifano.github.io/my_works/be_original/) - The first layout;
+3. [PrimeOne](https://grifano.github.io/PrimeOne/) - LandingPage;
     - HTML&CSS;
     - JS (simple);
     - BEM;
     - SASS/SCSS;
     - Responsive;
     - Vaidating-form;
-4. [Wooder](https://grifano.github.io/wooder/) - LandingPage about wood furniture / Сайт визитка - что-то про дерево :);
+4. [Wooder](https://grifano.github.io/wooder/) - LandingPage;
     - HTML&CSS;
     - JS (simple);
     - BEM;
@@ -22,7 +22,7 @@
     - Fullscreen images;
     - Slider;
     - Responsive;
-5. [Charger ](https://grifano.github.io/charger/) - LandingPage. Chargin device company / Сайт визитка - Зарядка устройств;
+5. [Charger ](https://grifano.github.io/charger/) - LandingPage;
     - HTML&CSS;
     - JS (simple);
     - BEM;
@@ -30,7 +30,7 @@
     - Slider;
     - Responsive;
     - Vaidating-form;
-5. [TwoWheels ](https://grifano.github.io/TwoWheels/) - LandingPage / Сайт визитка - о мотоциклах;
+5. [TwoWheels ](https://grifano.github.io/TwoWheels/) - LandingPage;
     - HTML&CSS;
     - JS (simple);
     - BEM;
@@ -39,6 +39,14 @@
     - Responsive;
     - Fullscreen block;
     - Vaidating-form;
+6. [Bicycle](https://grifano.github.io/bike/) - LandingPage;
+    - HTML&CSS;
+    - JS (simple);
+    - BEM;
+    - SASS/SCSS;
+    - Slider;
+    - Responsive;
+    - Fullscreen block;
     
 ## Frontend Mentor / Challenge:
 1. [ArticlePreview](https://grifano.github.io/FrontendMentor/Challenge/ArticlePreview/index.html); 
@@ -47,29 +55,28 @@
     - BEM;
     - Responsive;
 
-## Мои домашние задания HTML & CSS / My HTML & CSS Homework:
-- [Урок - 04](https://grifano.github.io/my_homeworks/glo_academy/L04/) - Мини книга на Html / Mini book on HTML;
-- [Урок - 05](https://grifano.github.io/my_homeworks/glo_academy/L05/) - Мини книга на Html и CSS / Mini book on HTML&CSS;
-- [Урок - 06](https://grifano.github.io/my_homeworks/glo_academy/L06/) - Фиксированое меню / Fixed menu;
-- [Урок - 07](https://grifano.github.io/my_homeworks/glo_academy/L07/) - Первый сверстаный сайт на Html&CSS / First website;
-- [Урок - 08](https://grifano.github.io/my_homeworks/glo_academy/L08/) - Знакомство с Bootstrap / Meeting with Bootstrap;
-- [Урок - 09](https://grifano.github.io/my_homeworks/glo_academy/L09/) - Первый сайт на Bootstrap / First site with Bootstrap;
-- [Урок - 13](https://grifano.github.io/my_homeworks/glo_academy/L13/) - Форма регистрации пиксел в пиксел / Registration form pixel perfect;
+## My HTML & CSS Homework from "GLO-Academy":
+- [Lesson - 04](https://grifano.github.io/my_homeworks/glo_academy/L04/) - Mini book on HTML;
+- [Lesson - 05](https://grifano.github.io/my_homeworks/glo_academy/L05/) - Mini book on HTML&CSS;
+- [Lesson - 06](https://grifano.github.io/my_homeworks/glo_academy/L06/) - Fixed menu;
+- [Lesson - 07](https://grifano.github.io/my_homeworks/glo_academy/L07/) - First website;
+- [Lesson - 08](https://grifano.github.io/my_homeworks/glo_academy/L08/) - Meeting with Bootstrap;
+- [Lesson - 09](https://grifano.github.io/my_homeworks/glo_academy/L09/) - Bootstrap / First site with Bootstrap;
+- [Lesson - 13](https://grifano.github.io/my_homeworks/glo_academy/L13/) - Registration form pixel perfect;
 
-## Бесплатный курс "Фрилансер по жизни: / "Freelancer Life Style" free course:
+## "Freelancer Life Style" free course:
 [Бесплатный курс "Фрилансер по жизни"](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr);
-- [Урок - 01](https://grifano.github.io/my_homeworks/fls/01_my_first_project/my_first_project/) - Первый урок;
-- [Урок - 02](https://grifano.github.io/my_homeworks/fls/02_html_tags_1/html_tags_1/) - Таги DIV и другие;
-- [Урок - 03](https://grifano.github.io/my_homeworks/fls/03_html_tags_2/html_tags_2/) - Теги для контента;
-- [Урок - 04](https://grifano.github.io/my_homeworks/fls/04_html_tags_3/html_tags_3/) - HTML-теги (формы);
-- [Урок - 05](https://grifano.github.io/my_homeworks/fls/05_css_1/css_1/) - Основы CSS. Обнуление стилей;
-- [Урок - 06](https://grifano.github.io/my_homeworks/fls/06_css_2/css_2/) - Основы CSS. Стили шрифта и текста;
-- [Урок - 09](https://grifano.github.io/my_homeworks/fls/09_css_5/css_5/homework.html) - Основы CSS. Часть №5 (Свойство background);
-- [Урок - 10](https://grifano.github.io/my_homeworks/fls/10_css_6/css_6/homework.html) - Основы CSS. Часть №6 (Селекторы псевдоклассов);
-- [Урок - 11](https://grifano.github.io/my_homeworks/fls/11_css_7/css_7/homework.html) - Основы CSS. Часть №7 (псевдоэлементы);
-- [Урок - 13](https://grifano.github.io/my_homeworks/fls/13_hellosass/hellosass/homework.html) - Препроцессор SASS/SCSS. Урок-13 Что такое SASS, SCSS. (Домашка, верстка макеты с исподбзованием SASS);
-- [Урок - 15](https://grifano.github.io/my_homeworks/fls/15_bem/bem/homework.html) - Знакомство с методологией БЕМ. Домашка, верстка макета с применением БЕМ;
+- [Lesson - 01](https://grifano.github.io/my_homeworks/fls/01_my_first_project/my_first_project/) - First Lesson;
+- [Lesson - 02](https://grifano.github.io/my_homeworks/fls/02_html_tags_1/html_tags_1/) - Tags DIV etc;
+- [Lesson - 03](https://grifano.github.io/my_homeworks/fls/03_html_tags_2/html_tags_2/) - Tags for content;
+- [Lesson - 04](https://grifano.github.io/my_homeworks/fls/04_html_tags_3/html_tags_3/) - HTML-tags (form);
+- [Lesson - 05](https://grifano.github.io/my_homeworks/fls/05_css_1/css_1/) - The basics CSS. Resetting styles;
+- [Lesson - 06](https://grifano.github.io/my_homeworks/fls/06_css_2/css_2/) - The basics CSS. Font and text styles;
+- [Lesson - 09](https://grifano.github.io/my_homeworks/fls/09_css_5/css_5/homework.html) - Basics of CSS. Part # 5(background);
+- [Lesson - 10](https://grifano.github.io/my_homeworks/fls/10_css_6/css_6/homework.html) - The basics CSS. Part №6 (Pseudo-class selectors);
+- [Lesson - 11](https://grifano.github.io/my_homeworks/fls/11_css_7/css_7/homework.html) - The basics CSS. Part №7 (pseudo-elements);
+- [Lesson - 13](https://grifano.github.io/my_homeworks/fls/13_hellosass/hellosass/homework.html) - Preprocessor SASS/SCSS. Lesson-13 What is SASS, SCSS? (Homework, layout layouts using SASS);
+- [Lesson - 15](https://grifano.github.io/my_homeworks/fls/15_bem/bem/homework.html) - Acquaintance with the BEM methodology. Homework, layout using BEM;
 
-## Мои домашние задания JavaScript / My JavaScript Homework:
-- скоро появятся... / coming soon...;
-
+## My JavaScript Homework:
+- coming soon...
