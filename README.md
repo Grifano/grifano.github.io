@@ -5,7 +5,7 @@
 > Here I will share my results :)
 
 ## My works: 
-1. [Сайт аренда квартир / Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Practical task of the course HTML&CSS;
+1. [Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Practical task of the course HTML&CSS;
 2. [Website](https://grifano.github.io/my_works/be_original/) - The first layout;
 3. [PrimeOne](https://grifano.github.io/PrimeOne/) - LandingPage;
     - HTML&CSS;
@@ -65,7 +65,7 @@
 - [Lesson - 13](https://grifano.github.io/my_homeworks/glo_academy/L13/) - Registration form pixel perfect;
 
 ## "Freelancer Life Style" free course:
-[Бесплатный курс "Фрилансер по жизни"](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr);
+[Free course "Freelancer Life Style"](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr);
 - [Lesson - 01](https://grifano.github.io/my_homeworks/fls/01_my_first_project/my_first_project/) - First Lesson;
 - [Lesson - 02](https://grifano.github.io/my_homeworks/fls/02_html_tags_1/html_tags_1/) - Tags DIV etc;
 - [Lesson - 03](https://grifano.github.io/my_homeworks/fls/03_html_tags_2/html_tags_2/) - Tags for content;
