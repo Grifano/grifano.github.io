@@ -1,10 +1,23 @@
 # Serhii Orlenko
 ![avatar-small](https://user-images.githubusercontent.com/57153786/86810656-6f5c8200-c07d-11ea-9839-c9671a1a0fbf.jpg)
-> **Welcome**
+> **HI! Thank you for visiting my profile!**
 >
-> Here I will share my results :)
+> My goal is to do what I love, to develop and learn, to become a useful member of the IT society.
+> Help solve problems for those who are looking for a responsible and positive person.
+>
+> I would like to share with you the results of my development in the development of web pages.
+>
+> Any suggestions, advice and criticism regarding my work will be very useful to me, and I am infinitely grateful to you for your help.
+>
+> I believe that thanks to you my knowledge and experience will grow better and faster.
+>
+> Gladly take part in cooperation and mutual support on your project, using the knowledge that I have at the moment.
+>
+> Thanks for your time!
+>
+> See you;)
 
-## My works: 
+## My works & skills: 
 1. [Apartment rental site](https://grifano.github.io/my_works/flats_rents/) - Practical task of the course HTML&CSS;
 2. [Website](https://grifano.github.io/my_works/be_original/) - The first layout;
 3. [PrimeOne](https://grifano.github.io/PrimeOne/) - LandingPage;
@@ -13,7 +26,6 @@
     - BEM;
     - SASS/SCSS;
     - Responsive;
-    - Vaidating-form;
 4. [Wooder](https://grifano.github.io/wooder/) - LandingPage;
     - HTML&CSS;
     - JS (simple);
